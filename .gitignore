@@ -1,0 +1,18 @@
+# Node dependencies
+**/node_modules/
+
+# Production / Build outputs
+**/dist/
+**/.next/
+**/out/
+**/build/
+
+# Environment files containing secrets
+**/.env
+**/.env.local
+
+# Logs and archives
+**/logs/
+*.zip
+*.log
+.DS_Store
