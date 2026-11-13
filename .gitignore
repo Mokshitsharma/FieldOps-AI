@@ -16,3 +16,6 @@
 *.zip
 *.log
 .DS_Store
+
+# private working notes
+brain/
